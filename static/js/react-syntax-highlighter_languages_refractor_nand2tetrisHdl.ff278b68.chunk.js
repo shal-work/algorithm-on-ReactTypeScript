@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[163],{251:function(a,n,t){"use strict";function e(a){a.languages["nand2tetris-hdl"]={comment:/\/\/.*|\/\*[\s\S]*?(?:\*\/|$)/,keyword:/\b(?:BUILTIN|CHIP|CLOCKED|IN|OUT|PARTS)\b/,boolean:/\b(?:false|true)\b/,function:/\b[A-Za-z][A-Za-z0-9]*(?=\()/,number:/\b\d+\b/,operator:/=|\.\./,punctuation:/[{}[\];(),:]/}}a.exports=e,e.displayName="nand2tetrisHdl",e.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_nand2tetrisHdl.ff278b68.chunk.js.map
